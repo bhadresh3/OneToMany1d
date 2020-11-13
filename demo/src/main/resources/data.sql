@@ -1,0 +1,12 @@
+INSERT INTO course (course_id, course_name) VALUES (1, 'Science');
+INSERT INTO course (course_id, course_name) VALUES (2, 'Maths');
+INSERT INTO course (course_id, course_name) VALUES  (3, 'Physics');
+INSERT INTO course (course_id, course_name) VALUES  (4, 'History');
+INSERT INTO course (course_id, course_name) VALUES  (5, 'English');
+INSERT INTO course (course_id, course_name) VALUES  (6, 'DataScience');
+INSERT INTO course (course_id, course_name) VALUES  (7, 'MachineLearning');
+INSERT INTO course (course_id, course_name) VALUES  (8, 'ComputerScience');
+INSERT INTO student (student_name) VALUES ('Patel');
+INSERT INTO student (student_name) VALUES ('Kumar');
+INSERT INTO student (student_name) VALUES ('Pater');
+INSERT INTO student (student_name) VALUES ('Joshua');
